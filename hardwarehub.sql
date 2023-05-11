@@ -147,4 +147,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
-INSERT INTO `products` VALUES (1, `CyberpowerPC Gamer Xtreme VR Gaming PC, Intel Core i7-12700F 2.1GHz, GeForce RTX 3060 12GB, 16GB DDR4, 1TB NVMe SSD, WiFi & Win 11 Home (GXiVR8040A12), Black`, `Gaming PC`, 1269.99, `"C:\Users\007690885\Downloads\HH_IST4310_Project-20230510T163455Z-001\HH_IST4310_Project\images\PC1.jpg"`);
+INSERT INTO `HardwareHub_db.products` VALUES (1, `CyberpowerPC Gamer Xtreme VR Gaming PC, Intel Core i7-12700F 2.1GHz, GeForce RTX 3060 12GB, 16GB DDR4, 1TB NVMe SSD, WiFi & Win 11 Home (GXiVR8040A12), Black`, `Gaming PC`, 1269.99, `"C:\Users\007690885\Downloads\HH_IST4310_Project-20230510T163455Z-001\HH_IST4310_Project\images\PC1.jpg"`);
